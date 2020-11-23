@@ -1,0 +1,12 @@
+.app {
+  font-size: 80px;
+  background-image: url('https://i.pinimg.com/236x/1a/00/63/1a00631a59fb9d8b6007ad76089fe4a5.jpg');
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.utama {
+  margin: 5px;
+}
