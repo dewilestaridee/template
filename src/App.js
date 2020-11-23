@@ -1,8 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import Main from './Main.js';
-import Header from './Header.js';
-import Movie from './Movie.js';
+
 
 class App extends Component {
   render (){
@@ -11,9 +10,7 @@ class App extends Component {
         <div className="app">
            PORTFOLIO
         </div>
-        <div>
-          <Header />
-         <Movie />
+        <div
           <Main/>
         </div>
       </div>
