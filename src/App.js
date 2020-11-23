@@ -10,9 +10,8 @@ class App extends Component {
         <div className="app">
            PORTFOLIO
         </div>
-        <div
+      
           <Main/>
-        </div>
       </div>
     );
   }
