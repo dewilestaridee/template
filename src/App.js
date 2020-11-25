@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import Main from './Main.js';
-
+import CV from './CV.js';
 
 class App extends Component {
   render (){
@@ -10,7 +10,7 @@ class App extends Component {
         <div className="app">
            PORTFOLIO
         </div>
-      
+          <CV />
           <Main/>
       </div>
     );
