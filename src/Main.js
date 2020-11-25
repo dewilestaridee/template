@@ -29,26 +29,26 @@ class Main extends Component {
 
                <div className="template">
                 <h4>Template dan Fotografi</h4>
-                <img class="kiri" top width="15%" height="25%" src={img} aria-hidden alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img2} alt="Card cap" /> 
-                <img class="kiri" top width="15%" height="25%" src={img3} alt="Card cap" /> 
-                <img class="kiri" top width="15%" height="25%" src={img4} alt="Card cap" /> 
-                <img class="kiri" top width="15%" height="25%" src={img5} alt="Card cap" /> 
-                <img class="kiri" top width="15%" height="25%" src={img6} alt="Card cap" /> 
-                <img class="kiri" top width="15%" height="25%" src={img7} alt="Card cap" /> 
-                <img class="kiri" top width="15%" height="25%" src={img8} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img9} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img10} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img11} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img12} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img13} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img14} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img15} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img16} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img17} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img18} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img19} alt="Card cap" />
-                <img class="kiri" top width="15%" height="25%" src={img20} alt="Card cap" />
+                 <img class="kiri" top width="20%" height="40%" src={img} aria-hidden alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img2} alt="Card cap" /> 
+                <img class="kiri" top width="20%" height="40%" src={img3} alt="Card cap" /> 
+                <img class="kiri" top width="20%" height="40%" src={img4} alt="Card cap" /> 
+                <img class="kiri" top width="20%" height="40%" src={img5} alt="Card cap" /> 
+                <img class="kiri" top width="20%" height="40%" src={img6} alt="Card cap" /> 
+                <img class="kiri" top width="20%" height="40%" src={img7} alt="Card cap" /> 
+                <img class="kiri" top width="20%" height="40%" src={img8} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img9} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img10} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img11} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img12} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img13} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img14} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img15} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img16} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img17} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img18} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img19} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img20} alt="Card cap" />
                 </div>
             </div>
 
