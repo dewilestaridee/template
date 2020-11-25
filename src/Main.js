@@ -27,7 +27,7 @@ class Main extends Component {
         return (
             <div className="main">
 
-               
+               <div className="template">
                 <h4>Template dan Fotografi</h4>
                 <img class="kiri" top width="15%" height="25%" src={img} aria-hidden alt="Card cap" />
                 <img class="kiri" top width="15%" height="25%" src={img2} alt="Card cap" /> 
@@ -50,6 +50,7 @@ class Main extends Component {
                 <img class="kiri" top width="15%" height="25%" src={img19} alt="Card cap" />
                 <img class="kiri" top width="15%" height="25%" src={img20} alt="Card cap" />
                 </div>
+            </div>
 
            
         )
