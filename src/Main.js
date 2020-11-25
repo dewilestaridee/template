@@ -28,7 +28,7 @@ class Main extends Component {
             <div className="main">
 
                <div className="template">
-                <h4>Template dan Fotografi</h4>
+                <h3>Template dan Fotografi</h3>
                  <img class="kiri" top width="20%" height="40%" src={img} aria-hidden alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img2} alt="Card cap" /> 
                 <img class="kiri" top width="20%" height="40%" src={img3} alt="Card cap" /> 
