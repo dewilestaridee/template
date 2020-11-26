@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import './Main.css';
 
 import img21 from './cv.png';
-import img21 from './cv1.png';
+import img22 from './cv1.png';
 
 class Cv extends Component {
     render(){
