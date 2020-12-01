@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import Main from './Main.js';
 import CV from './CV.js';
+import Banner from './Banner.js';
 
 class App extends Component {
   render (){
@@ -11,6 +12,7 @@ class App extends Component {
            PORTFOLIO
         </div>
           <CV />
+          <Banner />
           <Main/>
       </div>
     );
