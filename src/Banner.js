@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import './Main.css';
 
 import B from './B.png';
+import B2 from './b2.png';
 
 class Banner extends Component {
     render(){
@@ -9,6 +10,7 @@ class Banner extends Component {
             <div className ="cv">
             <h3>Banner</h3>
             <img class="tengah" top width="30%" height="30%" src={B} alt="Card cap" /> 
+            <img class="tengah" top width="30%" height="30%" src={B2} alt="Card cap" /> 
             </div>
         );
     }
