@@ -93,3 +93,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![img](./src/cv1.png)
 ![img](./src/cv2.png)
 ![img](./src/B.png)
+![img](./src/b2.png)
