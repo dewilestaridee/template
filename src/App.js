@@ -15,7 +15,7 @@ class App extends Component {
         <div className="app">
            PORTFOLIO
         </div>
-          <CV />
+          <Cv />
           <Certificate />
           <Banner />
           <Foto />
