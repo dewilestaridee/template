@@ -3,6 +3,10 @@ import './App.css';
 import Main from './Main.js';
 import CV from './CV.js';
 import Banner from './Banner.js';
+import Foto from './Foto.js';
+import Certificate from './Certificate.js';
+import Corel from './Corel.js';
+
 
 class App extends Component {
   render (){
@@ -12,8 +16,12 @@ class App extends Component {
            PORTFOLIO
         </div>
           <CV />
+          <Certificate />
           <Banner />
+          <Foto />
           <Main/>
+          <Corel />
+          
       </div>
     );
   }
