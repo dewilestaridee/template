@@ -13,7 +13,7 @@ class Corel extends Component {
     render(){
         return (
             <div className ="cv">
-            <h3>COREL DRAW</h3>
+            <h3>Corel Draw</h3>
             <img class="tengah" top width="30%" height="30%" src={D} alt="Card cap" /> 
             <img class="tengah" top width="30%" height="30%" src={D2} alt="Card cap" /> 
             <img class="tengah" top width="30%" height="30%" src={D3} alt="Card cap" /> 
