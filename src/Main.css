@@ -27,7 +27,7 @@
 
 
 .cv {
-    background-color:rgb(230, 233, 235);
+    background: linear-gradient(lavender, khaki);
     width: 100%;
     height: 100%;
     margin-top: 60px;
