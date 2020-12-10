@@ -10,16 +10,6 @@ import img7 from './7.png';
 import img8 from './8.png';
 import img9 from './9.png';
 import img10 from './10.png';
-import img11 from './11.png';
-import img12 from './12.png';
-import img13 from './13.png';
-import img14 from './14.png';
-import img15 from './15.png';
-import img16 from './16.png';
-import img17 from './17.png';
-import img18 from './18.png';
-import img19 from './19.png';
-import img20 from './20.png';
 
 
 class Main extends Component {
@@ -28,8 +18,8 @@ class Main extends Component {
             <div className="main">
 
                <div className="template">
-                <h3>Template dan Fotografi</h3>
-                 <img class="kiri" top width="20%" height="40%" src={img} aria-hidden alt="Card cap" />
+                 <h3>Template</h3>
+                <img class="kiri" top width="20%" height="40%" src={img} aria-hidden alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img2} alt="Card cap" /> 
                 <img class="kiri" top width="20%" height="40%" src={img3} alt="Card cap" /> 
                 <img class="kiri" top width="20%" height="40%" src={img4} alt="Card cap" /> 
@@ -39,16 +29,6 @@ class Main extends Component {
                 <img class="kiri" top width="20%" height="40%" src={img8} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img9} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img10} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img11} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img12} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img13} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img14} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img15} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img16} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img17} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img18} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img19} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img20} alt="Card cap" />
                 </div>
             </div>
 
