@@ -3,6 +3,7 @@ import './Main.css';
 
 import B from './B.png';
 import B2 from './b2.png';
+import B3 from './hakuhodo.png';
 
 class Banner extends Component {
     render(){
