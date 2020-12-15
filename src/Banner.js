@@ -12,6 +12,7 @@ class Banner extends Component {
             <h3>Banner</h3>
             <img class="tengah" top width="30%" height="30%" src={B} alt="Card cap" /> 
             <img class="tengah" top width="30%" height="30%" src={B2} alt="Card cap" /> 
+            <img class="tengah" top width="30%" height="30%" src={B3} alt="Card cap" /> 
             </div>
         );
     }
