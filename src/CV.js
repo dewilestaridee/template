@@ -4,6 +4,7 @@ import './Main.css';
 import img21 from './cv.png';
 import img22 from './cv1.png';
 import img23 from './cv2.png';
+import imgcv from './cv3.png';
 
 class Cv extends Component {
     render(){
@@ -13,6 +14,7 @@ class Cv extends Component {
             <img class="tengah" top width="40%" height="40%" src={img21} alt="Card cap" /> 
             <img class="tengah" top width="40%" height="40%" src={img22} alt="Card cap" /> 
             <img class="tengah" top width="40%" height="40%" src={img23} alt="Card cap" /> 
+            <img class="tengah" top width="40%" height="40%" src={imgcv} alt="Card cap" /> 
             </div>
         );
     }
