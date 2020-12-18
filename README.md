@@ -109,9 +109,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![img](./src/D3.png)
 ![img](./src/D4.png)
 ![img](./src/D5.png)
+![img](./src/D7.png)
+![img](./src/D8.png)
+![img](./src/D9.png)
 
 ![img](./src/cv.png)
 ![img](./src/cv1.png)
 ![img](./src/cv2.png)
+![img](./src/cv3.png)
 ![img](./src/B.png)
 ![img](./src/b2.png)
