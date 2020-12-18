@@ -7,6 +7,9 @@ import D3 from './D3.png';
 import D4 from './D4.png';
 import D5 from './D5.png';
 import D6 from './D6.png';
+import D7 from './D7.png';
+import D8 from './D8.png';
+import D9 from './D9.png';
 
 
 class Corel extends Component {
@@ -20,6 +23,9 @@ class Corel extends Component {
             <img class="tengah" top width="30%" height="30%" src={D4} alt="Card cap" /> 
             <img class="tengah" top width="30%" height="30%" src={D5} alt="Card cap" /> 
             <img class="tengah" top width="30%" height="30%" src={D6} alt="Card cap" /> 
+            <img class="tengah" top width="30%" height="30%" src={D7} alt="Card cap" /> 
+            <img class="tengah" top width="30%" height="30%" src={D8} alt="Card cap" /> 
+            <img class="tengah" top width="30%" height="30%" src={D9} alt="Card cap" /> 
             </div>
         );
     }
