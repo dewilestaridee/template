@@ -43,9 +43,9 @@ class Foto extends Component {
                 <img class="kiri" top width="20%" height="40%" src={img29} alt="Card cap" /> 
                 <img class="kiri" top width="20%" height="40%" src={img11} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img12} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img13} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img14} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img15} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img14} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img13} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img16} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img17} alt="Card cap" />
                
