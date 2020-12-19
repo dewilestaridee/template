@@ -17,6 +17,10 @@ import img26 from './26.png';
 import img27 from './27.png';
 import img28 from './28.png';
 import img29 from './29.png';
+import img30 from './30.png';
+import img31 from './31.png';
+import img32 from './32.png';
+import img33 from './33.png';
 
 class Foto extends Component {
     render(){
@@ -32,7 +36,11 @@ class Foto extends Component {
                 <img class="kiri" top width="20%" height="40%" src={img26} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img27} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img28} alt="Card cap" />
-                <img class="kiri" top width="20%" height="40%" src={img29} alt="Card cap" />    
+                <img class="kiri" top width="20%" height="40%" src={img29} alt="Card cap" /> 
+                <img class="kiri" top width="20%" height="40%" src={img30} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img31} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img32} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img33} alt="Card cap" /> 
                 <img class="kiri" top width="20%" height="40%" src={img11} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img12} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img13} alt="Card cap" />
