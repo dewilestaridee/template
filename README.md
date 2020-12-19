@@ -100,6 +100,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![img](./src/23.png)
 ![img](./src/24.png)
 ![img](./src/25.png)
+![img](./src/26.png)
+![img](./src/27.png)
+![img](./src/28.png)
+![img](./src/29.png)
 
 ![img](./src/C.png)
 ![img](./src/C2.png)
