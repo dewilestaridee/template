@@ -8,7 +8,7 @@ import B4 from './payung.png';
 import B5 from './somethinc.png';
 import B6 from './upmosphere.png';
 import B7 from './GridNetwork.png';
-import B8 from './GridNetwork.png';
+import B8 from './pixel.png';
 
 class Banner extends Component {
     render(){
