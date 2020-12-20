@@ -8,6 +8,7 @@ import B4 from './payung.png';
 import B5 from './somethinc.png';
 import B6 from './upmosphere.png';
 import B7 from './GridNetwork.png';
+import B8 from './GridNetwork.png';
 
 class Banner extends Component {
     render(){
@@ -21,6 +22,7 @@ class Banner extends Component {
             <img class="tengah" top width="30%" height="30%" src={B5} alt="Card cap" />
             <img class="tengah" top width="30%" height="30%" src={B6} alt="Card cap" />
             <img class="tengah" top width="30%" height="30%" src={B7} alt="Card cap" />
+            <img class="tengah" top width="30%" height="30%" src={B8} alt="Card cap" />
             </div>
         );
     }
