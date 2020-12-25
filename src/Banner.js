@@ -10,7 +10,7 @@ import B6 from './upmosphere.png';
 import B7 from './GridNetwork.png';
 import B8 from './pixel.png';
 import B9 from './volvo.png';
-import B10 from './volvo.png';
+import B10 from './kodomo.png';
 
 class Banner extends Component {
     render(){
