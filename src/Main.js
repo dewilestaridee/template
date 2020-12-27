@@ -11,6 +11,7 @@ import img8 from './8.png';
 import img9 from './9.png';
 import img10 from './10.png';
 import img11 from './pineapple.png';
+import img12 from './best.png';
 
 class Main extends Component {
     render(){
@@ -30,6 +31,7 @@ class Main extends Component {
                 <img class="kiri" top width="20%" height="40%" src={img9} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img10} alt="Card cap" />
                 <img class="kiri" top width="20%" height="40%" src={img11} alt="Card cap" />
+                <img class="kiri" top width="20%" height="40%" src={img12} alt="Card cap" />
                 </div>
             </div>
 
