@@ -99,6 +99,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![img](./src/volvo.png)
 ![img](./src/kodomo.png)
 ![img](./src/digi.png)
+![img](./src/kupu.png)
 
 ![img](./src/21.png)
 ![img](./src/22.png)
